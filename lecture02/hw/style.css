@@ -1,6 +1,21 @@
 h1{
-    color: red;
+    size: 100;
+    color:black;
+    padding-top: 30px;
 }
-#title-model{
-    margin: 0 auto;
+    
+
+
+
+#box-model
+{
+    margin:50px auto;
+    height: 800px;
+    width: 600px;
+    border : 3px solid black
 }
+
+li{
+    height:150px;
+}
+
