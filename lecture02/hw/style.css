@@ -1,7 +1,7 @@
 h1{
     size: 100;
     color:black;
-    padding-top: 30px;
+    padding-top: 20px;
 }
     
 
@@ -10,12 +10,22 @@ h1{
 #box-model
 {
     margin:50px auto;
-    height: 800px;
-    width: 600px;
+    height: 1000px;
+    width: 700px;
     border : 3px solid black
 }
 
 li{
-    height:150px;
+    height:200px;
 }
 
+.shape
+{
+    height: 150px;
+    width: 200px;
+}
+ .food
+ {
+    font-family: '나눔손글씨 붓';
+    font-size: 200%
+ }
