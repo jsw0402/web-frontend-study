@@ -15,17 +15,29 @@ h1{
     border : 3px solid black
 }
 
-li{
-    height:200px;
-}
-
 .shape
 {
     height: 150px;
     width: 200px;
 }
- .food
- {
-    font-family: '나눔손글씨 붓';
-    font-size: 200%
+
+.detail_shape
+{
+    height: 200px;
+    width: 350px;
+}
+
+
+ table{
+    padding-left: 30px ;
+    padding-right: 30px;
+    width: 100%;
+    font-size: 200%;
+    font-family: "나눔손글씨 붓";
  }
+ 
+ td{
+    padding-top: 20px;
+    text-align: center;
+ }
+ 
